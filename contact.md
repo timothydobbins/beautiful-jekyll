@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Timothy Dobbins
-subtitle:
+subtitle: Contact
 ---
 
-Some stuff
+Enter contact details here

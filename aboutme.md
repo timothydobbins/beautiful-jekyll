@@ -1,7 +1,7 @@
 ---
 layout: page
-title: About me
-subtitle: About me and contact details
+title: Timothy Dobbins
+subtitle: About me
 ---
 
 I am an Associate Professor at the [National Drug and Alcohol Research Centre](https://ndarc.med.unsw.edu.au/ "NDARC"), [UNSW](https://www.unsw.edu.au/). I received my PhD in Biostatistics in 2005 from the University of Sydney where I examined methods for analysing longitudinal data collected from cluster randomised trials. As a biostatistician with over ten years' postdoctoral experience, I have experience in many fields of biostatistics, including randomised controlled trials and meta-analysis, and have familiarity with Bayesian methods.

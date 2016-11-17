@@ -24,12 +24,18 @@ description: Timothy Dobbins
 # List of links in the navigation bar
 navbar-links:
   About Me: "aboutme"
+  Research:
+    - "research"
+    - Google Scholar: "https://scholar.google.com.au/citations?hl=en&user=BnBg1lEAAAAJ&view_op=list_works&sortby=pubdate"
+    - ORCID: "http://orcid.org/0000-0003-1841-9056"
+  Code snippets: "https://gist.github.com/timothydobbins"
   Teaching: "teaching"
-  Research: "research"
+  Contact: "contact"
+
 
 # Image to show in the navigation bar - image must be a square (width = height)
 # Remove this parameter if you don't want an image in the navbar
-avatar: "/img/avatar-icon.png"
+# avatar: "/img/avatar-icon.png"
 
 # --- Footer options --- #
 

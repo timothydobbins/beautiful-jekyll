@@ -1,0 +1,9 @@
+- About
+- Research
+  - Publications
+  - Grants
+  - Google scholar
+  - ORCID
+  - Code snippets
+- Teaching
+- Contact
