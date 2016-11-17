@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Timothy Dobbins
+title: 
 subtitle: Contact
 ---
 
