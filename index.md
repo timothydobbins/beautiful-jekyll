@@ -1,10 +1,7 @@
 ---
 layout: page
-title: UPDATED
-subtitle: Bleep
+title:
+subtitle:
 ---
-
-# Hello
-## Hello again
 
 Some stuff
