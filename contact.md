@@ -1,7 +1,6 @@
 ---
 layout: page
-title: 
-subtitle: Contact
+title: Contact
 ---
 
 Enter contact details here
