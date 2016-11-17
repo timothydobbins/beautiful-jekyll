@@ -12,4 +12,4 @@ My interest in the analysis of correlated data has provided experience in using 
 
 I regularly provide statistical review for manuscripts submitted to the Medical Journal of Australia. I am Deputy Chair of the NSW Population Health and Health Services Research Ethics Committee, where I use my experience in analysing linked data to provide scientific and ethical review of projects using or linking to routinely collected data.
 
-I have been using [SAS](www.sas.com) for over 20 years, and am increasingly using [R](https://www.r-project.org/) and [RStudio](https://www.rstudio.com/).
+I have been using [SAS](https://www.sas.com) for over 20 years, and am proficient in [Stata](https://www.stata.com) and [R](https://www.r-project.org/).
