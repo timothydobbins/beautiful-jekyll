@@ -3,5 +3,3 @@ layout: page
 title: Timothy Dobbins
 subtitle:
 ---
-
-Some stuff
