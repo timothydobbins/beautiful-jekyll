@@ -28,7 +28,7 @@ navbar-links:
     - "research"
     - Google Scholar: "https://scholar.google.com.au/citations?hl=en&user=BnBg1lEAAAAJ&view_op=list_works&sortby=pubdate"
     - ORCID: "http://orcid.org/0000-0003-1841-9056"
-  Code snippets: "https://gist.github.com/timothydobbins"
+  Code snippets: "codesnippets"
   Teaching: "teaching"
   Contact: "contact"
 
