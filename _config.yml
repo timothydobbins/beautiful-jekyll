@@ -17,7 +17,7 @@ baseurl: ""
 title: Timothy Dobbins
 
 # Short description of your site
-description: Timothy Dobbins
+description: Biostatistician at the National Drug and Alcohol Research Centre, UNSW Sydney
 
 # --- Navigation bar options --- #
 
@@ -43,7 +43,7 @@ navbar-links:
 # Important: you must keep the "name" parameter, everything else you can remove
 author:
   name: Timothy Dobbins
-  email: "t.dobbins[at]unsw.edu.au"
+  email: "t.dobbins@unsw.edu.au"
   github: timothydobbins    # eg. daattali
   twitter: the_t_d   # eg. daattali
   linkedin: yourname  # eg. daattali
